@@ -1,0 +1,5 @@
+This project calculates the relative humidity of the air 
+from the air quality dataset{which can be found in UCI repository}
+
+I have taken all the parameters into consideration for this model
+Used GridSearchCV But doesnot improve much.
